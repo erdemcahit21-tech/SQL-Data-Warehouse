@@ -1,4 +1,4 @@
-#SQL Data Warehouse# — Retail Sales Analytics
+## SQL Data Warehouse — Retail Sales Analytics
 
 A Bronze/Silver/Gold data warehouse built on PostgreSQL (Supabase), 
 ingesting and transforming 500,000+ rows of real retail sales data.
